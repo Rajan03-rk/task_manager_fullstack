@@ -77,7 +77,6 @@ body.light{
   border-radius: 12px;
   border:1px solid var(--stroke);
   background: transparent;
-  color: var(--text);
   outline: none;
 }
 
